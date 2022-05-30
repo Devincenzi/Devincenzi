@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning react and vue...
 - 📫 You can talk to me on 
   - email:    andre.devincenzi@hotmail.com,
-  - linkedin: André Devincenzi,
-  - twitter:  @andredevincenzi...
+  - linkedin: André Devincenzi...
 
 <!---
 Devincenzi/Devincenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
